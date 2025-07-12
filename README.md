@@ -1,8 +1,9 @@
+
 # 📚 Lecturas Mundo
 
 Aplicación web desarrollada con Django y PostgreSQL que permite registrar, listar, puntuar y analizar libros. Pensado tanto para usuarios lectores como para desarrolladores que quieran explorar un backend API RESTful y estadísticas automatizadas con visualización.
 
----
+
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -13,7 +14,7 @@ Aplicación web desarrollada con Django y PostgreSQL que permite registrar, list
 - Matplotlib/Searborn: para visualización
 - Scikit-learn: 1.4+
 - Djangorestframework: 3.15
----
+
 
 ## ⚙️ Instalación del proyecto
 
@@ -66,7 +67,7 @@ python manage.py migrate
 
 python manage.py runserver
 
----
+
 ### 🧠 7. ¿Cómo funciona el programa?
 
 
@@ -146,7 +147,7 @@ El proyecto cuenta con una API RESTful desarrollada con Django REST Framework, q
 - `GET /api/puntuaciones/`  
   Listado de todas las puntuaciones registradas (admin o autenticado).
 
----
+
 
 ## 9. 📊 Estadísticas y visualizaciones
 
@@ -158,7 +159,7 @@ Generación automática de gráficos accesibles desde el navegador:
 - `/estadisticas/promedio-puntuaciones-libro/` → Promedios de puntuaciones
 ![Gráfico](http://127.0.0.1:8000/estadisticas/promedio-puntuaciones-libro/)
 
----
+
 
 
 ## 10. 🧪 Pruebas con Postman
@@ -170,7 +171,7 @@ Podés utilizar Postman o cualquier herramienta REST para:
 - Enviar puntuaciones
 - Ver visualizaciones
 
----
+
 
 ## 11. 📄 Licencias
 
@@ -183,4 +184,4 @@ Este proyecto utiliza herramientas y librerías con licencias open source:
 - Matplotlib: PSF-based
 - Seaborn: BSD
 
----
+
