@@ -80,7 +80,7 @@ El sistema permite:
 
 
 
-##  8. API REST 
+###  8. API REST 
 El proyecto cuenta con una API RESTful desarrollada con Django REST Framework, que permite gestionar libros, usuarios y valoraciones. A continuación se describen los principales endpoints y cómo usarlos.
 
 
@@ -149,7 +149,7 @@ El proyecto cuenta con una API RESTful desarrollada con Django REST Framework, q
 
 
 
-## 9. 📊 Estadísticas y visualizaciones
+### 9. 📊 Estadísticas y visualizaciones
 
 Generación automática de gráficos accesibles desde el navegador:
 
@@ -162,7 +162,7 @@ Generación automática de gráficos accesibles desde el navegador:
 
 
 
-## 10. 🧪 Pruebas con Postman
+### 10. 🧪 Pruebas con Postman
 
 Podés utilizar Postman o cualquier herramienta REST para:
 
@@ -173,7 +173,7 @@ Podés utilizar Postman o cualquier herramienta REST para:
 
 
 
-## 11. 📄 Licencias
+### 11. 📄 Licencias
 
 Este proyecto utiliza herramientas y librerías con licencias open source:
 
